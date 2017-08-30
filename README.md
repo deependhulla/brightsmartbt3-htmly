@@ -6,12 +6,47 @@ BrightSmart-BT3 Htmly Free BootStrap 3.3.7 Theme based on bootswatch multiple-cs
  -  Upload and extract the zip file into themes directory.
  -  Rename the extracted folder to `brightsmartbt3`.
  -  Change the `views.root` using `http://www.example.com/admin/config` to `themes/brightsmartbt3`
+
+
+## Load Bootswatch css themes ,
+
+you can elect any one from below option if none  is used it would  load flaty.
+
+
+;brightsmart.bootswatch = "cerulean"
+;brightsmart.bootswatch = "cosmo"
+;brightsmart.bootswatch = "custom"
+;brightsmart.bootswatch = "cyborg"
+;brightsmart.bootswatch = "darkly"
+;brightsmart.bootswatch = "flatly"
+;brightsmart.bootswatch = "journal"
+;brightsmart.bootswatch = "lumen"
+;brightsmart.bootswatch = "paper"
+;brightsmart.bootswatch = "readable"
+;brightsmart.bootswatch = "sandstone"
+;brightsmart.bootswatch = "simplex"
+;brightsmart.bootswatch = "slate"
+;brightsmart.bootswatch = "spacelab"
+;brightsmart.bootswatch = "superhero"
+;brightsmart.bootswatch = "united"
+;brightsmart.bootswatch = "yeti"
+
+## Load bootswatch nav-bar inverse version for above theme
+
+You can select true if none than its false. and load navbar-default
+
+;brightsmart.navbar-inverse = "true"
+
+## Social Link addtional support.
+social.github = "https://github.com/deependhulla"
+social.linkedin = "https://linkedin.com/in/deependhulla"
  
 ## Custom Background
 
 You can use custom header background let say for frontpage, category page, profile page etc. 
-
 You just need to add new custom value in your config page. 
+
+
 
 **Home**
 ```
