@@ -8,9 +8,9 @@ BrightSmart-BT3 Htmly Free BootStrap 3.3.7 Theme based on bootswatch multiple-cs
  -  Change the `views.root` using `http://www.example.com/admin/config` to `themes/brightsmartbt3`
 
 
-## Load Bootswatch css themes ,
+## Load Bootswatch css themes 
 
-you can elect any one from below option if none  is used it would  load flaty.
+You can use any one from below option if none  is used it would  load flatly.
 ```
 brightsmart.bootswatch = "cerulean"
 brightsmart.bootswatch = "cosmo"
