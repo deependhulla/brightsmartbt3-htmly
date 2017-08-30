@@ -1,0 +1,65 @@
+.intro-header {
+  background-color: #808080;
+  background: no-repeat center center;
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  margin-bottom: 30px;
+}
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+  padding: 75px 0 25px;
+  color: white;
+}
+
+
+p {
+font-size: 1.2em;
+  
+line-height: 1.5;
+  margin: 30px 0;
+}
+p:first-child {
+  margin: 0 0 30px 0;
+}
+p a {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 800;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.navbar-custom .navbar-brand {
+  font-weight: 800;
+}
+
+
+.breadcrumb {
+  background-color: transparent;
+  border-radius: 0px;
+  font-size:16px;
+  list-style: outside none none;
+  margin-bottom: 20px;
+  padding: 0px;
+  color: white;
+  text-align:center;
+}
+
+.breadcrumb a {
+/*   color:white; */
+}
+
