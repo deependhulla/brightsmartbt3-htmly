@@ -35,7 +35,7 @@ brightsmart.bootswatch = "yeti"
 
 You can select true if none than its false. and load navbar-default
 ```
-;brightsmart.navbar-inverse = "true"
+brightsmart.navbar-inverse = "true"
 ```
 ## Social Link addtional support.
 ```
